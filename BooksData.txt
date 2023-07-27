@@ -1,0 +1,5 @@
+B001, The Lord of the Rings, 1954, JRR Tolkien, true
+B002, The War of the Worlds, 1898, HG Wells, false
+B003, Fahrenheit 451, 1953, Ray Bradbury, true
+B004, Lord of the Flies, 1954, William Golding, true
+B005, Dune, 1965, Frank Herbert, false

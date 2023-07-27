@@ -1,0 +1,145 @@
+
+
+Event User: 
+Event time: 2022/05/24 17:32:42
+Event Outcome: The credentials were not valid. The user is currently on attempt: 2
+
+Event User: Best!Username3
+Event time: 2022/06/23 11:30:47
+Event Outcome: The credentials were not valid. The user is currently on attempt: 2
+
+Event User: sdevadmin
+Event time: 2022/06/23 11:42:51
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 11:52:37
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:38:14
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:39:38
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:40:48
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: admin
+Event time: 2022/06/23 12:41:24
+Event Outcome: The credentials were not valid. The user is currently on attempt: 2
+
+Event User: admin
+Event time: 2022/06/23 12:41:31
+Event Outcome: The credentials were not valid. The user is currently on attempt: 3
+
+Event User: admin
+Event time: 2022/06/23 12:41:32
+Event Outcome: User exceeded the maximum number of failed login attempts. The program promptly closed.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:42:16
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:42:22
+Event Outcome: Logout successful.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:43:39
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:44:32
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:44:37
+Event Outcome: Logout successful.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:45:10
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:46:01
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:46:31
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:49:24
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:50:23
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:51:46
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 12:59:45
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: sdevadmin
+Event time: 2022/06/23 13:02:37
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: Best!Username3
+Event time: 2022/06/23 13:03:51
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: Best!Username3
+Event time: 2022/06/23 13:05:25
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: Best!Username3
+Event time: 2022/06/23 13:07:22
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: Test&5admin
+Event time: 2022/06/23 13:09:43
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: BobJones1123!
+Event time: 2022/06/23 13:11:45
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: BobJones1123!
+Event time: 2022/06/23 13:11:57
+Event Outcome: Logout successful.
+
+Event User: BobJones1123!
+Event time: 2022/06/23 13:41:39
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: BobJones1123!
+Event time: 2022/06/23 13:42:25
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: BobJones1123!
+Event time: 2022/06/23 13:42:48
+Event Outcome: Logout successful.
+
+Event User: bobjones1123!
+Event time: 2022/06/23 14:12:19
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: bobjones1123!
+Event time: 2022/06/23 14:13:48
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: bobjones1123!
+Event time: 2022/06/23 14:15:29
+Event Outcome: Successful logon after valid credentials were entered.
+
+Event User: bobjones1123!
+Event time: 2022/06/23 14:17:31
+Event Outcome: Successful logon after valid credentials were entered.
